@@ -1,0 +1,17 @@
+body {
+  background-color: #5e4db2;
+  font-family: Arial, sans-serif;
+  color: white;
+  padding: 20px;
+}
+
+table {
+  background-color: #5e4db2;
+  border: 2px solid white;
+  padding: 20px;
+  width: 100%;
+}
+
+input, textarea, select {
+  margin: 5px 0;
+}
